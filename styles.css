@@ -1,0 +1,68 @@
+.card{
+    width: 18rem;
+   
+
+}
+.cart{
+    padding:3rem 7rem;
+
+}
+#cardImg{
+    height: 300px;
+   
+}
+
+
+
+.qtyBtn{
+    text-align: center;
+    font-size: 25px;
+    margin: 15px;
+    border-radius: 50%;
+    height: 50px;
+    
+    width: 50px;
+    background-color: rgb(232, 232, 232);
+    border: none;
+}
+
+.delete{
+    text-align: center;
+    font-size: 20px;
+   
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    color: red;
+    background-color: transparent;
+    border: none;
+}
+
+.modalCard{
+    height: 330px !important;
+    width: 200px !important;
+}
+
+.modalCard img{
+height: 120px !important;
+
+}
+
+.custom-modal-lg {
+    max-width: 95%; /* Adjust the percentage to control the width */
+  }
+  .addToPack{
+    margin-bottom: 10px;
+   
+    font-size: 12px  !important;
+    width: 150px !important;
+  }
+  .fs-10{
+    font-size: 14px;
+  }
+
+  .active{
+    
+opacity: 0.5;
+    background-color: rgb(99, 125, 148);
+  }

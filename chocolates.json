@@ -1,0 +1,117 @@
+
+  [
+    {
+      "id": 1,
+      "name": "Mint Intense",
+      "rating": 3,
+      "desc": "dark chocolate infused with mint and almond slivers",
+
+      "image": "./assets/mint-intense.png",
+      "price":100
+    },
+    {
+      "id": 2,
+      "name": "Orange Intense",
+      "rating": 4,
+      "desc": "dark chocolate infused with orange essence and almond flakes",
+      "image": "./assets/orange-intense.jfif", 
+      "price":300
+    },
+    {
+      "id": 3,
+      "name": "Black Currant",
+      "rating": 5,
+      "desc":
+        "dark chocolate infused with pieces of black currant and almond slivers",
+      "image": "./assets/black-currant.jfif",
+      "price":200
+    },
+    {
+      "id": 4,
+      "name": "White Coconut",
+      "rating": 3,
+      "desc": "white chocolate with crisp flakes of fine coconut",
+      "image": "./assets/white-coconut.jpeg",
+      "price":400
+    },
+    {
+      "id": 5,
+      "name": "Lindor",
+      "rating": 1,
+      "desc": "the famous balls but in cube form and almond slivers",
+      "image": "./assets/lindor.png",
+      "price":800
+    },
+    {
+      "id": 6,
+      "name": "Wasabi",
+      "rating": 4,
+      "desc": "an East Asian inspired dark chocolate mixed with Wasabi",
+      "image": "./assets/wasabi.jpg",
+      "price":250
+    },
+    {
+      "id": 7,
+      "name": "Pocket Coffee",
+      "rating": 5,
+      "desc": "Italian liquid espresso encased in a shell of dark chocolate",
+      "image": "./assets/pocket-coffe.jfif",
+      "price":700
+    },
+    {
+      "id": 8,
+      "name": "Mon Chéri",
+      "rating": 3,
+      "desc":"a single-wrapped combination consisting of a heart of cherry",
+      "image": "./assets/mon-cheri.jfif",
+      "price":600
+    },
+    {
+      "id": 9,
+      "name": "Raffaello",
+      "rating": 4,
+      "desc": "a spherical coconut-almond confection",
+      "image": "./assets/rafello.jfif",
+      "price":800
+    },
+    {
+      "id": 10,
+      "name": "Kinder Joy",
+      "rating": 5,
+      "desc": "contains layers of cocoa and milk-flavoured ",
+      "image": "./assets/kinder.jfif",
+      "price":500
+    },
+    {
+      "id": 11,
+      "name": "Mounds",
+      "rating": 3,
+      "desc": " dark chocolate enrobed coconut base mixture",
+      "image": "./assets/mounds.jfif",
+      "price":900
+    },
+    {
+      "id": 12,
+      "name": "Drops",
+      "rating": 4,
+      "desc":"Circular-shaped chocolate candies based .",
+      "image": "./assets/drops.jfif",
+      "price":800
+    },
+    {
+      "id": 13,
+      "name": "Bliss",
+      "rating": 5,
+      "desc":"bite sized chocolates in a square shape.",
+      "image": "./assets/bliss.jfif",
+      "price":600
+    }
+  ]
+
+
+ 
+ 
+ 
+ 
+
+
